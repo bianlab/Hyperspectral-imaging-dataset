@@ -9,9 +9,8 @@ We present a database of hyperspectral images (HSIs) that were used to support o
 
 ## **Image Capture Information**
 
-<div style="text-align:center;">
- 
-| Camera              | FigSpec-23      | GaiaField Pro-N17E-HR |
+
+| Camera              | [FigSpec-23](https://www.figspec.com/h-col-141.html)      | [GaiaField Pro-N17E-HR](https://www.dualix.com.cn/en/Goods/desc/id/123/aid/999.html) |
 | ------------------- | --------------- | --------------------- |
 | Range of wavelength | 400-1000 nm     | 900-1700 nm           |
 | Steps               | 2.5 nm          | 5 nm                  |
@@ -20,7 +19,6 @@ We present a database of hyperspectral images (HSIs) that were used to support o
 | Spatial resolution  | 960×1230 pixels | 640×660 pixels        |
 | Image format        | spe/hdr         | raw/hdr               |
 
-</div>
 
 
 ## **Database Organization**
