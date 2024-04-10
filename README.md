@@ -1,4 +1,4 @@
-# Open source datasets for Cross-Scene Hyperspectral Image Classification
+# Hyperspectral imaging dataset
 
 **Houston datasets:** Houston 2013 and Houston 2018.  | Thanks [Xudong Zhao](https://github.com/xudongzhao461) for his work in producing the Houston data.
 
@@ -61,22 +61,5 @@ datasets
 Please cite our paper if you find these datasets useful for your research.
 
 ```
-@ARTICLE{9540028,
-  author={Zhang, Yuxiang and Li, Wei and Zhang, Mengmeng and Qu, Ying and Tao, Ran and Qi, Hairong},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Topological Structure and Semantic Information Transfer Network for Cross-Scene Hyperspectral Image Classification}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TNNLS.2021.3109872}}
-@ARTICLE{9812472,  
-  author={Zhang, Yuxiang and Li, Wei and Zhang, Mengmeng and Wang, Shuai and Tao, Ran and Du, Qian},  
-  journal={IEEE Transactions on Neural Networks and Learning Systems},   
-  title={Graph Information Aggregation Cross-Domain Few-Shot Learning for Hyperspectral Image Classification},  
-  year={2022},  
-  volume={},  
-  number={},  
-  pages={1-14},  
-  doi={10.1109/TNNLS.2022.3185795}}
+
 ```
