@@ -22,7 +22,7 @@ Because the field of view of these two cameras is different, we performed image 
 
 Our dataset comprises 1000 sets of hyperspectral images captured using the Figspec-23 and GaiaField Pro-N17E-HR hyperspectral cameras. These sets encompass a diverse range of scenes, with 500 outdoor scenes (such as roads, buildings, flowers, vehicles, etc.) and 500 indoor scenes captured under laboratory illuminant (Thorlabs SLS302, 10W output optical power, 1115lux), including food, cloth, toy, model, etc. The outdoor scenes were photographed in Beijing, China from April to June and October to December, encompassing various weather conditions including sunny, cloudy, and overcast.
 
-The collection of image pairs is available at this repository 10.5281/zenodo.10952018
+The collection of image pairs is available at this repository [10.5281/zenodo.10952018](https://zenodo.org/doi/10.5281/zenodo.10952017)
 .
  
 
@@ -33,7 +33,7 @@ If you have any questions, please feel free to contact us (bian@bit.edu.cn).
 
 
 
-
+--------------------------------------------------------
 
 **Houston datasets:** Houston 2013 and Houston 2018.  | Thanks [Xudong Zhao](https://github.com/xudongzhao461) for his work in producing the Houston data.
 
