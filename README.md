@@ -15,9 +15,11 @@ download: [坚果云](https://www.jianguoyun.com/p/DSDqQfIQncXpChjy9dAEIAA) or [
 download: [坚果云](https://www.jianguoyun.com/p/Daiu5IsQncXpChj99dAEIAA) or [Google-drive](https://drive.google.com/drive/folders/1XSSZcdp9fed4bxVrKKONNXbDzbYqTsjc?usp=sharing)
 
 <p align='center'>
-  <img src='figure/pavia.png' width="600px">
-  <img src='figure/pavia1.png' width="400px">
+  <img src='fig/Hyperspectral imaging dataset.pdf' width="600px">
 </p>
+
+
+
 
 **HyRank datasets:** Dioni and Loukia.
 
