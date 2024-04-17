@@ -29,7 +29,7 @@
     <br>The outdoor scenes were photographed in Beijing, China from April to June and October to December, encompassing various weather conditions including sunny, cloudy, and overcast. The indoor scenes were captured under laboratory illuminant (Thorlabs SLS302, 10W output optical power, 1115lux).
 </p>
 
-The collection of image pairs is available at this repository [10.5281/zenodo.10952018](https://zenodo.org/doi/10.5281/zenodo.10952017)
+The collection of image pairs is available at this repository 
 
 ## 3. Paper
 Under Review.
