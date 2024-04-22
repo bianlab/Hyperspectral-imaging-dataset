@@ -30,6 +30,11 @@
 
 The Databases are available in this repository https://www.scidb.cn/s/6V3qMn
 
+D1 is composed of “HSI_400_1000_0001_0200.zip”, “HSI_400_1000_0201_0400.zip”, “HSI_400_1000_0401_0600.zip”, “HSI_400_1000_0601_0800.zip”, and “HSI_400_1000_0801_1000.zip”. Each package contains 200 hyperspectral images, a total of 1000. The corresponding RGB references are deposited in the “Synthesized_RGB_Image_400_1000.zip”.
+
+D2 is composed of “HSI_400_1700_0001_0200.zip”, “HSI_400_1700_0201_0400.zip”, “HSI_400_1700_0401_0600.zip”, “HSI_400_1700_0601_0800.zip”, and “HSI_400_1700_0801_1000.zip”. Each package contains 200 hyperspectral images, a total of 1000. The corresponding RGB references are deposited in the “Synthesized_RGB_Image_400_1700.zip”.
+
+
 
 
 ## 3. Data availability statement
