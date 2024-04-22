@@ -25,7 +25,7 @@
 ## **2. Database Organization**
 
 <p style="text-align: justify;">
-    We have a total of 1000 scenes, comprising 500 outdoor scenes depicting various landscapes such as roads, buildings, flowers, vehicles and others, alongside 500 indoor scenes showcasing items like food, cloth, toys and models. Two distinct database are provided, denoted as Database 1 (D1) and Database 2 (D2), each corresponding these scenes. The D1 database contains hyperspectral data with a spectral response range of 400-1000 nm (at 10 nm intervals), and each h5 file consists of 61 channels of images measuring 960×1230 pixels. Simultaneously, the D2 database contains hyperspectral data with a spectral response range of 400-1700 nm (at 10 nm intervals), and each h5 file comprises 131 channels of images measuring 640×660 pixels.
+    We have a total of 1000 scenes, comprising 500 outdoor scenes depicting various landscapes such as roads, buildings, flowers, vehicles and others, alongside 500 indoor scenes showcasing items like food, cloth, toys and models. Two distinct databases are provided, denoted as Database 1 (D1) and Database 2 (D2), each corresponding to these scenes. The D1 database contains hyperspectral data with a spectral response range of 400-1000 nm (at 10 nm intervals), and each h5 file consists of 61 channels of images measuring 960×1230 pixels. Simultaneously, the D2 database contains hyperspectral data with a spectral response range of 400-1700 nm (at 10 nm intervals), and each h5 file comprises 131 channels of images measuring 640×660 pixels.
 </p>
 
 The Databases are available in this repository https://www.scidb.cn/s/6V3qMn
